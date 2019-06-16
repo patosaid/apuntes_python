@@ -1,3 +1,3 @@
 # Apuntes de python
 
-[ ] Seguir con el intensivo de ML google
+- [ ] Seguir con el intensivo de ML google
